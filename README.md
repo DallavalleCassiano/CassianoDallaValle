@@ -4,8 +4,8 @@
 My name is "Cassiano Spiller Dalla Valle"
 Meu nome é "Cassiano Spiller Dalla Valle"
 
--Currently I study at Irma Maria Margarida Scholl!
--Atualmente eu estudo no colégio irma maria margarida!
+-I'm studying at Alura!
+-Eu estou estudando no Alura!
 
 -I use this space to store and share my projects!
 -Utilizo esse espaço para armazenar e compartilhar meus projetos!
@@ -23,3 +23,5 @@ Meu nome é "Cassiano Spiller Dalla Valle"
 📱🇧🇷 +55 (46) 99916-7189
 
 ![](https://media.tenor.com/NMULeDCLR34AAAAC/kaka-ricardo.gif)
+![](https://media.tenor.com/QL_F_E0I8ygAAAAd/kobe-bryant.gif)
+![](https://media.tenor.com/sBB0RSmZaOoAAAAd/zico-brazil.gif)
