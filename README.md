@@ -23,5 +23,4 @@ Meu nome é "Cassiano Spiller Dalla Valle"
 📱🇧🇷 +55 (46) 99916-7189
 
 ![](https://media.tenor.com/NMULeDCLR34AAAAC/kaka-ricardo.gif)
-![](https://media.tenor.com/QL_F_E0I8ygAAAAd/kobe-bryant.gif)
 ![](https://media.tenor.com/sBB0RSmZaOoAAAAd/zico-brazil.gif)
