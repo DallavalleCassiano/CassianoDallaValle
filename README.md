@@ -2,7 +2,7 @@
 # 🥇Boas Vindas ao Meu Perfil⭐
 
 My name is "Cassiano Spiller Dalla Valle"
-Meu nome é "Cassiano Spiller Dalla Valle"
+-Meu nome é "Cassiano Spiller Dalla Valle"
 
 -I'm studying at Alura!
 -Eu estou estudando no Alura!
